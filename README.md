@@ -1,4 +1,4 @@
-# Pseudocode Exercise 5 Library routines
+# Pseudocode Exercise 6 Array
 
 ---
 

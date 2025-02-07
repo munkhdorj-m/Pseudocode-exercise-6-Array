@@ -4,34 +4,38 @@
 
 ## Exercise 1
 
-Ask user to input card number. Replace the characters except the last four are replaced with the asterisk character '*'. 
-Card numbers are stored as strings. The strings are between 10 and 20 characters in length.
+Find average of list elements.
 
     Example:
-    Input: "1234567890" 
-    Output: "******7890"
-    
-    Input: "1234567897652" 
-    Output: "*********7652"
+    Input: [1,2,3,4,5] 
+    Output: 3
+
 
 ## Exercise 2
 
-Create a rock, paper, scissor game using RANDOM. Ask user to input their choice, then output computer's choice and winner.
+Find smallest element in a list.
 
     Example:
-    Enter your choice: 1-rock, 2-paper, 3-scissor
-    Input: 1
-    Output: You Lose! Computer's choice was: paper
+    Input: [1,4,8,10,15]
+    Output: 1
 
     
 ## Exercise 3
 
-Convert the first characters of the given sentence to uppercase and display it.
+Find index number of highest number. Suppose index starts from 1.
 
     Example:
-    Input: "learning to code is fun"
-    Output: "Learning To Code Is Fun"
+    Input: [1,5,9,3,4]
+    Output: 3
 
+
+## Exercise 4
+
+Reverse the elements of a array in place.
+
+    Example:
+    Input: [1,2,3,4,5]
+    Output: [5,4,3,2,1]
 ---
 
 

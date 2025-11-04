@@ -38,7 +38,7 @@ Count how many elements in the array are even numbers.
     Output: 3
 
 
-## Exercise 5 (Challange)
+## Exercise 5 (Challenge)
 
 Input a list of numbers.
 Find all the “peaks” — elements that are greater than their neighbors.

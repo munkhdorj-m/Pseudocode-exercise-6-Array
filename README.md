@@ -1,4 +1,4 @@
-# Pseudocode Exercise 6 Array
+# Pseudocode Exercise 5 Array
 
 ---
 

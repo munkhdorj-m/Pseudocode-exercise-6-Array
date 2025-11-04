@@ -31,15 +31,6 @@ Find index number of highest number. Suppose index starts from 1.
 
 ## Exercise 4
 
-Reverse the elements of a array in place.
-
-    Example:
-    Input: [1,2,3,4,5]
-    Output: [5,4,3,2,1]
-
-
-## Exercise 5
-
 Count how many elements in the array are even numbers.
 
     Example:
@@ -47,7 +38,7 @@ Count how many elements in the array are even numbers.
     Output: 3
 
 
-## Exercise 6 (Challange)
+## Exercise 5 (Challange)
 
 Input a list of numbers.
 Find all the “peaks” — elements that are greater than their neighbors.

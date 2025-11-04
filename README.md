@@ -36,6 +36,31 @@ Reverse the elements of a array in place.
     Example:
     Input: [1,2,3,4,5]
     Output: [5,4,3,2,1]
+
+
+## Exercise 5
+
+Count how many elements in the array are even numbers.
+
+    Example:
+    Input: [1, 2, 3, 4, 5, 6]  
+    Output: 3
+
+
+## Exercise 6 (Challange)
+
+Input a list of numbers.
+Find all the “peaks” — elements that are greater than their neighbors.
+
+    Example:
+    Input: [1, 3, 2, 5, 4, 6, 6, 2]
+    Output: [3, 5]
+
+    Explanation:
+    3 > 1 and 2
+    5 > 2 and 4
+    6 is not counted (since equal neighbor)
+
 ---
 
 
